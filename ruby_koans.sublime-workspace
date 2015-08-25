@@ -1,0 +1,245 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/shanewillson/Dropbox/700-RUBY/ruby_koans"
+	],
+	"file_history":
+	[
+		"/Users/shanewillson/Library/Application Support/com.toketaware.ithoughtsx/_unpack/5314F108-EB9E-4E69-8A43-CF557846EA0D.unpack/previewme.markdown",
+		"/Users/shanewillson/Dropbox/500-GTA_SOC130/COPY-150730-GTA-SOC130-SU15-Course-MindMap.markdown",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shanewillson/Dropbox/100-dissertation/980-DISS-PROP.sublime-project",
+		"/Users/shanewillson/Library/Application Support/Alfred 2/Workflow Data/net.deanishe.alfred-git-repos/settings.json",
+		"/Users/shanewillson/Documents/untitled.md",
+		"/Users/shanewillson/Dropbox/smw-tasks.taskpaper",
+		"/Users/shanewillson/Dropbox/000-notes/000-mmd-pandoc-syntax-cheat-sheet-ref-150707.txt",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/TaskPaper/Themes/Dividers-SMW.taskpapertheme",
+		"/Users/shanewillson/Library/Application Support/TaskPaper/Themes/tskppr.taskpapertheme",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/TaskPaper/Themes/tskppr-smw.taskpapertheme",
+		"/Users/shanewillson/Library/Application Support/TaskPaper/Themes/other.taskpapertheme",
+		"/Users/shanewillson/Dropbox/000-notes/nts-zet-brownback-states-anderson-revolving-door-150717-0956.txt",
+		"/Users/shanewillson/Dropbox/000-notes/folderize.rb",
+		"/Users/shanewillson/Downloads/nvWikiLink-master/nvWikiLinker.rb",
+		"/Users/shanewillson/Library/Application Support/nvALT/template.html",
+		"/Users/shanewillson/Downloads/marked-bonus-pack-master/README.md",
+		"/Users/shanewillson/Dropbox/100-dissertation/200-DISS-PROP-ROUGH-DRAFT.txt",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/Citer/README.md",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Citer.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/SarahsPandocMarkdown.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/PandocReferencr/PandocReferencr.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/AcademicMarkdown.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/AcademicMarkdown/AcademicMarkdown.sublime-settings",
+		"/Users/shanewillson/Dropbox/000-notes/nts-rdng-smith-2005-150714.txt",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/shanewillson/Dropbox/zettel-test/nts-new-drafts-Zettel-note-150714-1919.txt",
+		"/Users/shanewillson/Dropbox/000-notes/nts-block-2013-think_tanks_free_market_academics_and_the_triumph_of_the_right-150418.txt",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/shanewillson/Dropbox/000-notes/nts-ol-wikilink-outline-proof-of-concept-150611.txt",
+		"/Users/shanewillson/Dropbox/000-notes/Zettelkasten-Sample-Dan-Sheffler-150708.txt",
+		"/Users/shanewillson/Dropbox/000-notes/nts-rdng-diss-prop-course-150212.txt",
+		"/Users/shanewillson/Dropbox/000-notes/nts-rdng-medvetz-2012-think-tanks-in-america.txt",
+		"/Users/shanewillson/Dropbox/000-notes/books-to-read.txt",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Notational.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/Notational/Notational.sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/shanewillson/Library/Application Support/Sublime Text 3/Packages/User/MultiMarkdown.sublime-settings",
+		"/Users/shanewillson/Dropbox/000-notes/nts-new-drafts-Zettel-note-150714-1919.txt",
+		"/Users/shanewillson/Dropbox/100-dissertation/400-DISS-PROP-SHIT-DRAFT.txt",
+		"/Users/shanewillson/Downloads/Touchpoints.markdown",
+		"/Users/shanewillson/Downloads/pandoc-citekeys-master/README.md",
+		"/Users/shanewillson/Dropbox/Notebooks/100-DISS-PROP-NOTEBOOKS/RQ and Institutional Ethnography/IE Notes/nts-rdng-ie_smith-2005_150708.txt",
+		"/Users/shanewillson/.hackademy/hackademy.conf",
+		"/Users/shanewillson/Dropbox/Hackademy/Hackademy-Installer/resources/make-reading-note",
+		"/Users/shanewillson/Library/Application Support/BibDesk/Templates/rtfExportTemplate.rtf",
+		"/Users/shanewillson/Downloads/pandoc-citekeys-master/bib_extract.py",
+		"/Users/shanewillson/Downloads/tools_v6.2.1/Other_Tools/DRM_Key_Scripts/Kindle_for_Mac_and_PC/kindlekey.pyw",
+		"/Users/shanewillson/Desktop/default_key.k4i"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"”",
+			"“",
+			"”"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ruby_koans.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
